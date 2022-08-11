@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h4 {
+  color: blue;
+}
+.ratings-container .rating-start-k {
+  height: 32px;
+  width: 32px;
+  display: inline-block;
+  background-image: url("https://s1.ax1x.com/2022/08/12/vJ95OH.png");
+}
+
+.ratings-container .rating-start-f {
+  height: 32px;
+  width: 32px;
+  display: inline-block;
+  background-image: url("https://s1.ax1x.com/2022/08/12/vJ9omd.png");
+}
+
+.ratings-container-average .rating-start-k {
+  height: 32px;
+  width: 32px;
+  display: inline-block;
+  background-image: url("https://s1.ax1x.com/2022/08/12/vJ95OH.png");
+}
+
+.ratings-container-average .rating-start-f {
+  height: 32px;
+  width: 32px;
+  display: inline-block;
+  background-image: url("https://s1.ax1x.com/2022/08/12/vJ9omd.png");
+}
